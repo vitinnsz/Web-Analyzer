@@ -1,0 +1,5 @@
+beautifulsoup4
+rich
+requests
+python-whois
+ping3

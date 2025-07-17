@@ -1,0 +1,17 @@
+version: '3.8'
+
+services:
+  website-tester:
+    build: .
+    image: website-tester-app
+    container_name: website-tester
+    # A biblioteca 'ping3' precisa de acesso a sockets raw. O NET_RAW é concedido para permitir isso.
+    cap_add:
+      - NET_RAW
+    # Modo interativo para permitir a entrada do usuário no terminal (necessário para o 'rich.console.input')
+    stdin_open: true # Equivalente a 'docker run -i'
+    tty: true        # Equivalente a 'docker run -t'
+    # Monta um arquivo de configuração local no contêiner.
+    # Isso permite que você altere as configurações no seu 'config.py' local sem precisar reconstruir a imagem.
+    volumes:
+      - ./tester/config.py:/app/config.py:ro
