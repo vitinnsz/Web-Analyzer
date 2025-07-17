@@ -2,7 +2,7 @@
 
 # 🚀 Website Tester
 
-[![Python Version](https://img.shields.io/badge/Python-3.9+-blue?style=for-the-badge&logo=python)](https://www.python.org/)
+[![Python Version](https://img.shields.io/badge/Python-3.8+-blue?style=for-the-badge&logo=python)](https://www.python.org/)
 [![Licença](https://img.shields.io/github/license/vitinnsz/Web-Analyzer?style=for-the-badge&color=green)](https://github.com/vitinnsz/Web-Analyzer/main/LICENSE)
 [![Issues](https://img.shields.io/github/issues/vitinnsz/Web-Analyzer?style=for-the-badge&color=orange)](https://github.com/vitinnsz/Web-Analyzer/issues)
 [![Stars](https://img.shields.io/github/stars/vitinnsz/Web-Analyzer?style=for-the-badge)](https://github.com/vitinnsz/Web-Analyzer/stargazers)
