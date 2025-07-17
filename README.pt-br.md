@@ -3,10 +3,10 @@
 # 🚀 Website Tester
 
 [![Python Version](https://img.shields.io/badge/Python-3.8+-blue?style=for-the-badge&logo=python)](https://www.python.org/)
-[![Licença](https://img.shields.io/github/license/vitinnsz/Website-Tester?style=for-the-badge&color=green)](https://github.com/vitinnsz/Website-Tester/main/LICENSE)
-[![Issues](https://img.shields.io/github/issues/vitinnsz/Website-Tester?style=for-the-badge&color=orange)](https://github.com/vitinnsz/Website-Tester/issues)
-[![Stars](https://img.shields.io/github/stars/vitinnsz/Website-Tester?style=for-the-badge)](https://github.com/vitinnsz/Website-Tester/stargazers)
-[![Último Commit](https://img.shields.io/github/last-commit/vitinnsz/Website-Tester?style=for-the-badge&color=blueviolet)](https://github.com/vitinnsz/Website-Tester/commits/main)
+[![Licença](https://img.shields.io/github/license/vitinnsz/Web-Analyzer?style=for-the-badge&color=green)](https://github.com/vitinnsz/Web-Analyzer/main/LICENSE)
+[![Issues](https://img.shields.io/github/issues/vitinnsz/Web-Analyzer?style=for-the-badge&color=orange)](https://github.com/vitinnsz/Web-Analyzer/issues)
+[![Stars](https://img.shields.io/github/stars/vitinnsz/Web-Analyzer?style=for-the-badge)](https://github.com/vitinnsz/Web-Analyzer/stargazers)
+[![Último Commit](https://img.shields.io/github/last-commit/vitinnsz/Web-Analyzer?style=for-the-badge&color=blueviolet)](https://github.com/vitinnsz/Web-Analyzer/commits/main)
 
 **Uma ferramenta CLI poderosa para analisar SEO, Segurança e Performance de qualquer site, com relatórios direto no seu terminal.**
 
@@ -62,7 +62,7 @@ Obtenha uma análise 360º do seu site, dividida em seções claras:
 Primeiro, clone o repositório para sua máquina local:
 
 ```bash
-git clone https://github.com/vitinnsz/Website-Tester.git
+git clone https://github.com/vitinnsz/Web-Analyzer.git
 cd Website-Tester
 ```
 
@@ -143,7 +143,7 @@ Sua contribuição é muito bem-vinda! Siga os passos abaixo:
 4.  Envie para a sua branch: `git push origin feature/sua-feature-incrivel`
 5.  Abra um **Pull Request**.
 
-Para bugs ou sugestões, por favor, [abra uma issue](https://github.com/vitinnsz/Website-Tester/issues).
+Para bugs ou sugestões, por favor, [abra uma issue](https://github.com/vitinnsz/Web-Analyzer/issues).
 
 ---
 

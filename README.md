@@ -3,10 +3,10 @@
 # 🚀 Website Tester
 
 [![Python Version](https://img.shields.io/badge/Python-3.9+-blue?style=for-the-badge&logo=python)](https://www.python.org/)
-[![Licença](https://img.shields.io/github/license/vitinnsz/Website-Tester?style=for-the-badge&color=green)](https://github.com/vitinnsz/Website-Tester/main/LICENSE)
-[![Issues](https://img.shields.io/github/issues/vitinnsz/Website-Tester?style=for-the-badge&color=orange)](https://github.com/vitinnsz/Website-Tester/issues)
-[![Stars](https://img.shields.io/github/stars/vitinnsz/Website-Tester?style=for-the-badge)](https://github.com/vitinnsz/Website-Tester/stargazers)
-[![Último Commit](https://img.shields.io/github/last-commit/vitinnsz/Website-Tester?style=for-the-badge&color=blueviolet)](https://github.com/vitinnsz/Website-Tester/commits/main)
+[![Licença](https://img.shields.io/github/license/vitinnsz/Web-Analyzer?style=for-the-badge&color=green)](https://github.com/vitinnsz/Web-Analyzer/main/LICENSE)
+[![Issues](https://img.shields.io/github/issues/vitinnsz/Web-Analyzer?style=for-the-badge&color=orange)](https://github.com/vitinnsz/Web-Analyzer/issues)
+[![Stars](https://img.shields.io/github/stars/vitinnsz/Web-Analyzer?style=for-the-badge)](https://github.com/vitinnsz/Web-Analyzer/stargazers)
+[![Último Commit](https://img.shields.io/github/last-commit/vitinnsz/Web-Analyzer?style=for-the-badge&color=blueviolet)](https://github.com/vitinnsz/Web-Analyzer/commits/main)
 
 **Uma ferramenta CLI poderosa para analisar SEO, Segurança e Performance de qualquer site, com relatórios direto no seu terminal.**
 
