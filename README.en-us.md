@@ -3,10 +3,10 @@
 # 🚀 Website Tester
 
 [![Python Version](https://img.shields.io/badge/Python-3.8+-blue?style=for-the-badge&logo=python)](https://www.python.org/)
-[![License](https://img.shields.io/github/license/vitinnsz/Web-Analyzer?style=for-the-badge&color=green)](https://github.com/vitinnsz/Web-Analyzer/main/LICENSE)
-[![Issues](https://img.shields.io/github/issues/vitinnsz/Web-Analyzer?style=for-the-badge&color=orange)](https://github.com/vitinnsz/Web-Analyzer/issues)
-[![Stars](https://img.shields.io/github/stars/vitinnsz/Web-Analyzer?style=for-the-badge)](https://github.com/vitinnsz/Web-Analyzer/stargazers)
-[![Last Commit](https://img.shields.io/github/last-commit/vitinnsz/Web-Analyzer?style=for-the-badge&color=blueviolet)](https://github.com/vitinnsz/Web-Analyzer/commits/main)
+[![License](https://img.shields.io/github/license/vitinnsz/Website-Tester?style=for-the-badge&color=green)](https://github.com/vitinnsz/Website-Tester/main/LICENSE)
+[![Issues](https://img.shields.io/github/issues/vitinnsz/Website-Tester?style=for-the-badge&color=orange)](https://github.com/vitinnsz/Website-Tester/issues)
+[![Stars](https://img.shields.io/github/stars/vitinnsz/Website-Tester?style=for-the-badge)](https://github.com/vitinnsz/Website-Tester/stargazers)
+[![Last Commit](https://img.shields.io/github/last-commit/vitinnsz/Website-Tester?style=for-the-badge&color=blueviolet)](https://github.com/vitinnsz/Website-Tester/commits/main)
 
 **A powerful CLI tool to analyze SEO, Security, and Performance of any website, with reports directly in your terminal.**
 
@@ -62,7 +62,7 @@ Get a 360º analysis of your site, divided into clear sections:
 First, clone the repository to your local machine:
 
 ```bash
-git clone https://github.com/vitinnsz/Web-Analyzer.git
+git clone https://github.com/vitinnsz/Website-Tester.git
 cd Website-Tester
 ```
 
@@ -143,7 +143,7 @@ Your contribution is very welcome! Follow the steps below:
 4.  Push to your branch: `git push origin feature/your-amazing-feature`
 5.  Open a **Pull Request**.
 
-For bugs or suggestions, please [open an issue](https://github.com/vitinnsz/Web-Analyzer/issues).
+For bugs or suggestions, please [open an issue](https://github.com/vitinnsz/Website-Tester/issues).
 
 ---
 
